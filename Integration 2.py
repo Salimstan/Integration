@@ -60,7 +60,7 @@ if rate >= 6:
     print("Thank you have a wonderful day :)")
 elif rate < 6:
     print("Maybe you need to work on your people skills :(")
-57
+
 color = input("Enter your favorite color: ")
 x = 0
 while(x < 3):
